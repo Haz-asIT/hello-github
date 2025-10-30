@@ -1,0 +1,12 @@
+<project ...>
+  ...
+  <dependencies>
+    <!-- Example vulnerable version (for demo only) -->
+    <dependency>
+      <groupId>org.apache.struts</groupId>
+      <artifactId>struts2-core</artifactId>
+      <version>2.5.20</version>
+    </dependency>
+    <!-- add other libs if you want -->
+  </dependencies>
+</project>
